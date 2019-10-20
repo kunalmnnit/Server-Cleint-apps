@@ -1,3 +1,10 @@
-# Server-Cleint-apps
+# Server-Client-apps
 
-### Simple implementations of Java.net package to form server client system and groupchat(no gui) terminal application
+### Simple implementations of Java.net package to form Server - Client system
+### Groupchat(no gui) terminal application
+
+
+# Instructions for use
+- Compile all the `.java` files
+- Run Server using `java Server`
+- Run Client using `java Client`
